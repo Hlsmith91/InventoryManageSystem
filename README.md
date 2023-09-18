@@ -1,4 +1,4 @@
-# Inventory Manage System
+# Inventory Management System
 
 SCENARIO 
 
